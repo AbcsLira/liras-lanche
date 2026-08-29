@@ -1,6 +1,6 @@
 # 🍔 Cartão Interativo — Lira's Lanche
 
-> Um cartão digital interativo desenvolvido para facilitar o acesso dos clientes às principais informações e canais de atendimento da **Lira's Lanche**.
+> Um cartão digital interativo desenvolvido para facilitar o acesso dos clientes às principais informações e canais de atendimento do **Lira's Lanche**.
 
 ## 📌 Sobre o projeto
 
@@ -59,8 +59,6 @@ Você pode executar o projeto localmente de forma simples:
 # Clone o repositório
 git clone https://github.com/AbcsLira/liras-lanche
 
-# Acesse a pasta
-cd cartao-interativo
 ```
 
 Depois, basta abrir o arquivo `index.html` no navegador.
