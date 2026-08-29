@@ -80,12 +80,10 @@ Também é possível utilizar extensões como **Live Server** no VS Code para vi
 
 ## 📸 Demonstração
 
-Se possível, adicione aqui:
-
 * Screenshot da versão desktop
-<img width="394" height="646" alt="print liras pc" src="https://github.com/user-attachments/assets/8d8a2e2f-310f-4d48-a89c-00f6bea261c9" />
+<img width="394" height="646" alt="print liras pc" src="https://github.com/user-attachments/assets/8d8a2e2f-310f-4d48-a89c-00f6bea261c9"/>
 * Screenshot da versão mobile
-  <img width="1080" height="2202" alt="Screenshot_20260828_192954_Chrome" src="https://github.com/user-attachments/assets/c36799b8-bee0-427c-925e-3785f9336999" />
+  <img width="1080" height="2202" alt="Screenshot_20260828_192954_Chrome" src="https://github.com/user-attachments/assets/c36799b8-bee0-427c-925e-3785f9336999"/>
 
 
 ## 💡 Aprendizados
