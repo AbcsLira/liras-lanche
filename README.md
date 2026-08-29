@@ -79,7 +79,8 @@ Também é possível utilizar extensões como **Live Server** no VS Code para vi
 <img width="50%" height="50%" alt="print liras pc" src="https://github.com/user-attachments/assets/45022cf1-67b5-4520-992d-6682e6d3958a" />
 
 * Screenshot da versão mobile
-  <img width="50%" height="50%" alt="Screenshot_20260828_192954_Chrome" src="https://github.com/user-attachments/assets/c36799b8-bee0-427c-925e-3785f9336999"/>
+   
+  <img width="25%" height="25%" alt="Screenshot_20260828_192954_Chrome" src="https://github.com/user-attachments/assets/c36799b8-bee0-427c-925e-3785f9336999"/>
 
 
 ## 💡 Aprendizados
