@@ -22,11 +22,6 @@ O projeto foi pensado com foco em **simplicidade, responsividade e experiência 
 * 📲 QR Code direcionando para o cartão/site
 * ⚡ Estrutura leve e de carregamento rápido
 
-## 🖥️ Preview
-
-> Adicione aqui uma imagem ou GIF demonstrando o funcionamento do cartão.
-
-![Preview do Cartão Interativo](./assets/preview.png)
 
 ## 🛠️ Tecnologias utilizadas
 
